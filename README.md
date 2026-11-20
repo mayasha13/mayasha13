@@ -20,7 +20,7 @@
 - 🔭 Currently working on my **Bangalore AQI Dashboard**
 - 🌱 Learning **Data Analysis**, **Web Development** and **Git & GitHub**
 - 💬 Ask me about **Python**
-- ⚡ Fun fact: **[Add something fun about yourself!]**
+  
 
 ---
 
